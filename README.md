@@ -6,6 +6,12 @@ My First REPO as ALX Full -Stack Engineer!
 📫 How to reach me ses.moki@gmail.com
  Connect with me: Twitter
 
+🔭 I’m currently building ALX SE Software Engineering DevOP's Gigs.
+🌱 I’m currently learning ALX SE Software Engineering DevOP's.
+👯 I’m looking to collaborate with anyone on any project.
+💬 Ask me about anything
+🤖 I am a PyData Mentor in the making. How may AI help you?
+🤖 I am a ALX SE Software Engineering DevOP's  Mentor in the making.How may AI help you?
 ## ✉️ Find me on:
 
 
