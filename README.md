@@ -15,7 +15,7 @@ My First REPO as ALX Full -Stack Engineer!
 ## ✉️ Find me on:
 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
 </p>
 
 
