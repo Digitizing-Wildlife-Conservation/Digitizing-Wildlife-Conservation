@@ -21,7 +21,6 @@ My First REPO as ALX Full -Stack Engineer!
  <a href="mailto:ses.moki@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <p align=”center”>
 
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
 
 </p>
 </p>
