@@ -18,7 +18,7 @@ My First REPO as ALX Full -Stack Engineer!
 <p align="center">
  <a href="https://github.com/Digitizing-Wildlife-Conservation/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"width="45" height="45/>"> </a>
  <a href="https://www.linkedin.com/in/moses-muchai-3a8b46253/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:ses.moki@gmail.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
+ <a href="mailto:ses.moki@gmail.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"width="45" height="45/></a>
  <p align=”center”>
 
 
