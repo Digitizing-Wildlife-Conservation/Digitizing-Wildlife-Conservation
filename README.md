@@ -1,5 +1,11 @@
 ### Hi there 👋 I'm Moses Kimani Muchai
+
+Year:2024-2025-Accomplished Full stack Engineer ALX SE Software Engineering cohort 17 Graduate -Alumni class of 2024. DevOPs in Training.
+
 My First REPO as ALX Full -Stack Engineer!
+
+ALX SE Software Engineering cohort 17 student software Engineer in Training.
+
 🌱 I’m currently learning C Low level programming Python and aspiring to know Cloud Computing
 👯 I’m looking to collaborate on Web development and aspiring to know Cloud Computing DevOP's.
 💬 Ask me about Learning C and ALX Foundations First Sprint,Shell Navigation Low-Level SE Full-Stack Software Engineering DevOP's
