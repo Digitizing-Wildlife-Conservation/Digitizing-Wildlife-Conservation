@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Moses Kimani Muchai
-
+2025-2026-Cyfras Technologies DevOP's-Driven-Entry-Level-Internship:Position Software Engineer Developer Technical Department.
+2025-2026-ALX Professional Foundations program! #ALXLevelUp #ALXProfessionalFoundations#Tambali #ALXLevelUp#Alumni# Class of 2025.
 Year:2024-2025-Accomplished Full stack Engineer ALX SE Software Engineering cohort 17 Graduate -Alumni class of 2024. DevOPs in Training.
 
 My First REPO as ALX Full -Stack Engineer!
