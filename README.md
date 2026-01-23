@@ -1,8 +1,11 @@
 ### Hi there 👋 I'm Moses Kimani Muchai
+Professional Summary
 2025-2026-Cyfras Technologies DevOP's-Driven-Entry-Level-Internship:Position ERP-Software Engineer Developer Technical Department.
 2025-2026-ALX Professional Foundations program! #ALXLevelUp #ALXProfessionalFoundations#Tambali #ALXLevelUp#Alumni# Class of 2025.
+FinTech / ERP Focus
+Experienced Software Engineer & Systems Analyst specializing in ERP platforms, banking APIs, e-wallets, and financial automation. Proven ability to implement secure, scalable solutions that streamline operations and enhance user experience in financial services.
+Versatile Software Engineer & Systems Analyst with 8+ years delivering scalable web, cloud, and ERP solutions. Specialized in banking API integrations, automation workflows, and enterprise system optimization, driving efficiency, compliance, and impactful digital transformation across FinTech, government, and NGO sectors.
 Year:2024-2025-Accomplished Full stack Engineer ALX SE Software Engineering cohort 17 Graduate -Alumni class of 2024. DevOPs in Training.
-
 My First REPO as ALX Full -Stack Engineer!
 
 ALX SE Software Engineering cohort 17 student software Engineer in Training.
