@@ -1,5 +1,32 @@
 ### Hi there 👋 I'm Moses Kimani Muchai
 Professional Summary
+2025-2026:💼 Current Role — Cyfras Technologies (2025–Present)
+
+FinTech ERP Software Engineer Developer (DevOps-Driven Internship)
+Technical Department
+
+Full-Stack FinTech ERP Development
+
+Enterprise financial systems design and automation
+
+Banking API integrations & e-wallet systems
+
+Microsoft Dynamics 365 Business Central (ERP customization & optimization)
+
+Power BI (dashboards, analytics, reporting)
+
+DevOps-oriented workflows ensuring secure, scalable deployment
+
+📘 Key Project — Digitizing-Wildlife-Conservation
+
+A full-stack portfolio project showcasing foundational software engineering skills:
+
+Initial structured full-stack repository demonstrating applied learning
+
+Combines web development, Python scripting, and DevOps principles
+
+Foundation for later enterprise and FinTech ERP development
+
 2025-2026-Cyfras Technologies DevOP's-Driven-Entry-Level-Internship:Position ERP-Software Engineer Developer Technical Department.
 2025-2026-ALX Professional Foundations program! #ALXLevelUp #ALXProfessionalFoundations#Tambali #ALXLevelUp#Alumni# Class of 2025.
 FinTech / ERP Focus
