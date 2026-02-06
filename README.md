@@ -1,21 +1,18 @@
 ### Hi there 👋 I'm Moses Kimani Muchai
 Full-Stack FinTech ERP Software Engineer currently upskilling at Cyfras Technologies (2025–Present) as an ERP Software Engineer Developer, specializing in Microsoft Dynamics 365 Business Central customization, banking API integrations, e-wallet systems, and Power BI analytics through DevOps-driven workflows. ALX Software Engineering graduate (Cohort 17, Class of 2024–2025) and ALX Professional Foundations alumni, with growing expertise in financial automation, cloud architecture, compliance-driven development, and enterprise system optimization that streamlines operations and enhances user experience in financial services.
 
-ALX SE Software Engineering cohort 17 student software Engineer in Training.
+Professional Summary
 
-🌱 I’m currently learning C Low level programming Python and aspiring to know Cloud Computing
-👯 I’m looking to collaborate on Web development and aspiring to know Cloud Computing DevOP's.
-💬 Ask me about Learning C and ALX Foundations First Sprint,Shell Navigation Low-Level SE Full-Stack Software Engineering DevOP's
-📫 How to reach me ses.moki@gmail.com
- Connect with me: Twitter
+Full-Stack AIOP's DevOP's-Driven FinTech Software Engineer transitioning from foundational software engineering (ALX SE Cohort 17, 2024–2025) to cutting-edge enterprise solutions. Currently upskilling at Cyfras Technologies in Microsoft Dynamics 365 Business Central, Power BI analytics, banking API integrations, and DevOps automation. Expanding expertise into AIOps, low-code platforms, and emerging AI technologies to deliver intelligent, scalable solutions for modern financial systems.
+Core Competencies: Python • Cloud Computing • Full-Stack Development • DevOps Workflows • Banking APIs • E-Wallet Systems • AI Integration • Low-Code Development • Enterprise ERP Solutions
+Ready for: Remote | Hybrid | Onsite opportunities in FinTech, cloud-native development, AI-driven automation, and enterprise software engineering.
+Contact: ses.moki@gmail.com
 
-🔭 I’m currently building ALX SE Software Engineering DevOP's Gigs.
-🌱 I’m currently learning ALX SE Software Engineering DevOP's.
-👯 I’m looking to collaborate with anyone on any project.
-💬 Ask me about anything
-🤖 I am a PyData Mentor in the making. How may AI help you?
-🤖 I am a ALX SE Software Engineering DevOP's  Mentor in the making.How may AI help you?
-## ✉️ Find me on:
+Proven foundation in C, Python, shell scripting, and full-stack architecture. Actively mentoring emerging developers while mastering next-generation tech stacks that combine traditional engineering rigor with AI-powered innovation.
+
+AI-Enhanced Full-Stack Software Engineer with foundational expertise in C, Python, and low-level programming (ALX SE Cohort 17), now upskilling in Microsoft Dynamics 365 Business Central, Power BI, banking APIs, AIOps, and prompt engineering. Bridging traditional software engineering rigor with modern AI-driven development to deliver intelligent, scalable FinTech and cloud-native solutions. Currently building DevOps automation pipelines and enterprise ERP systems while expanding into cloud computing (AWS/Azure), low-code platforms, and AI integration. Emerging PyData and ALX SE mentor leveraging AI to accelerate learning and collaboration. Open to remote, hybrid, or onsite opportunities in full-stack development, DevOps workflows, and intelligent automation. Contact: ses.moki@gmail.com
+
+ALX SE Software Engineering Cohort 17 Graduate with foundational skills in C, Python, shell scripting, and low-level programming, now advancing into cloud computing, DevOps workflows, and full-stack web development. Actively building DevOps-driven projects while expanding expertise in AI integration and emerging PyData mentorship. Open to collaboration on web development, cloud infrastructure, and any innovative projects. Eager to leverage AI to accelerate learning and problem-solving in software engineering. Contact: ses.moki@gmail.com | Twitter: https://x.com/SesMoki
 .
 
 
