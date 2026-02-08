@@ -11,8 +11,7 @@ Full-Stack FinTech ERP Software Engineer & AIOps-Driven DevOps Specialist upskil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
-ge)
-!FinTech (https://img.shields.io/badge/FinTech-ERP_Systems-0F9D58?style=for-the-badge)
+
 
 
 </p>
