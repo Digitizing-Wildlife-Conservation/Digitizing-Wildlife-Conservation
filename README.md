@@ -5,7 +5,6 @@ Full-Stack FinTech ERP Software Engineer & AIOps-Driven DevOps Specialist upskil
 
 </p>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamics365/dynamics365-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
