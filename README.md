@@ -5,6 +5,7 @@ Full-Stack FinTech ERP Software Engineer & AIOps-Driven DevOps Specialist upskil
 
 </p>
 <p>
+  <img src="https://img.shields.io/badge/ERP-Enterprise_Resource_Planning-2E7D32?style=for-the-badge="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
