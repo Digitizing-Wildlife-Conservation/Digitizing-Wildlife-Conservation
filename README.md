@@ -4,6 +4,11 @@ Full-Stack FinTech ERP Software Engineer & AIOps-Driven DevOps Specialist upskil
 
 
 </p>
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-Business%20Central-0078D4?style=for-the-badge&logo=microsoft)
+![AL Language](https://img.shields.io/badge/AL-Application%20Language-512BD4?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-Automation-0A0A0A?style=for-the-badge&logo=devops)
+![AIOps](https://img.shields.io/badge/AIOps-Intelligent%20Ops-5C2D91?style=for-the-badge)
+![FinTech](https://img.shields.io/badge/FinTech-ERP%20Systems-0F9D58?style=for-the-badge)
 
 
 </p>
