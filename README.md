@@ -4,11 +4,15 @@ Full-Stack FinTech ERP Software Engineer & AIOps-Driven DevOps Specialist upskil
 
 
 </p>
-![Business Central](https://img.shields.io/badge/Dynamics_365-Business_Central-0078D4?style=for-the-badge&logo=microsoft)
-![AL Language](https://img.shields.io/badge/AL-Application_Language-512BD4?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/DevOps-Automation-0A0A0A?style=for-the-badge&logo=azuredevops)
-![AIOps](https://img.shields.io/badge/AIOps-Intelligent_Operations-5C2D91?style=for-the-badge)
-![FinTech](https://img.shields.io/badge/FinTech-ERP_Systems-0F9D58?style=for-the-badge)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamics365/dynamics365-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+ge)
+!FinTech (https://img.shields.io/badge/FinTech-ERP_Systems-0F9D58?style=for-the-badge)
 
 
 </p>
